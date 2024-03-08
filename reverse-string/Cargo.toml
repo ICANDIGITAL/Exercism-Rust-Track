@@ -1,4 +1,6 @@
 [dependencies]
+unicode-reverse = "1.0.8"
+unicode-segmentation = "1.11.0"
 
 [features]
 grapheme = []
